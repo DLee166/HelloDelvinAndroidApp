@@ -5,11 +5,9 @@ This is for the Android App submission for CodePath Mobile App Design Course. On
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://github.com/DLee166/HelloDelvinAndroidApp/blob/master/HelloDelvin1.gif" width=200><br>
 
 ### Required User Stories
-- [ ] 1. User sees custom text in a label - Hello from {name}!
-- [ ] 2. User see's custom background color.
-- [ ] 3. User can tap a button to change the text color of the label.
+- [x] 1. User sees custom text in a label - Hello from {name}!
+- [x] 2. User see's custom background color.
+- [x] 3. User can tap a button to change the text color of the label.
